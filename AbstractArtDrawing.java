@@ -4,7 +4,7 @@ import biuoop.GUI;
 import java.util.Random;
 import java.awt.Color;
 
-//Itamar Cohen 318897089
+
 
 /**
  * This is a Java class called AbstractArtDrawing which contains a method drawLinesAndPoints that generates a
