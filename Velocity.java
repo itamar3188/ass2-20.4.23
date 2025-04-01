@@ -6,7 +6,7 @@
  * and defines two constant values: ZERO which represents the numerical value 0, and THRESHOLD which represents
  * the maximum difference allowed between two double values to be considered equal.
  */
-//Itamar Cohen 318897089
+
 public class Velocity {
     /**
      * The Zero.
