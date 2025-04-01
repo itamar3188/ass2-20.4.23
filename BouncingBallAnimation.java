@@ -4,7 +4,6 @@ import biuoop.Sleeper;
 
 import java.awt.Rectangle;
 
-//Itamar Cohen 318897089
 
 /**
  * The type Bouncing ball animation.
