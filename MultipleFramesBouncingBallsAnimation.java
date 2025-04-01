@@ -5,7 +5,7 @@ import biuoop.Sleeper;
 import java.awt.Color;
 import java.awt.Rectangle;
 
-//Itamar Cohen 318897089
+
 
 /**
  * This is a Java class called "MultipleFramesBouncingBallsAnimation" that animates multiple bouncing balls in
