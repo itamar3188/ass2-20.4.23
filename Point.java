@@ -6,7 +6,6 @@
  * points in a two-dimensional space, such as graphics, physics, and geometry.
  */
 
-//Itamar Cohen 318897089
 public class Point {
     private double x;
     private double y;
