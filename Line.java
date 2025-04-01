@@ -4,7 +4,7 @@
  * method to check if two lines are equal. The equality of two lines is determined by comparing the start and end
  * points of both lines in both directions.
  */
-//Itamar Cohen 318897089
+
 public class Line {
     /**
      * The constant Comparison_threshold.
