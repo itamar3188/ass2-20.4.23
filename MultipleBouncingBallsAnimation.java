@@ -5,7 +5,7 @@ import biuoop.Sleeper;
 import java.awt.Rectangle;
 import java.awt.Color;
 
-//Itamar Cohen 318897089
+
 
 /**
  * This is a class that creates a multiple bouncing balls animation in a graphical user interface (GUI) window.
